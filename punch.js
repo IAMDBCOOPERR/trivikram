@@ -394,6 +394,12 @@ let punch_dailogues = [
     "punch": "Bokka lo unna elakke inko elaka kanapadutundi sir",
     "director": "puri",
     "movie": "businessman"
+  },
+  {
+    "id":65,
+    "punch":"Life antane pain , konni tappavu",
+    "director": "puri",
+    "movie":"Neninte",
   }
 ]
 module.exports = punch_dailogues
